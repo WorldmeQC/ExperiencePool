@@ -1,0 +1,16 @@
+XpPool:
+  enable: false
+  World: null
+  A:
+    X: 0
+    Y: 0
+    Z: 0
+  B:
+    X: 0
+    Y: 0
+    Z: 0
+  XP: 5
+  Time: 5
+  Enter_Message: '进入'
+  Leave_Message: '离开'
+

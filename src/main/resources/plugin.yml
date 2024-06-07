@@ -4,3 +4,6 @@ main: org.worldme.experiencepool.ExperiencePool
 api-version: '1.20'
 authors: [WorldmeQC]
 description: Experience Pool For Minecraft 1.20.x
+commands:
+  xppool:
+    description: '经验池相关'
